@@ -1,0 +1,15 @@
+Hearts,0,0,Sell
+Clubs,10,23,Buy
+Clubs,4,26,Buy
+Diamonds,12,26,Buy
+Diamonds,5,27,Buy
+Diamonds,3,29,Buy
+Hearts,20,27,Buy
+Clubs,2,30,Buy
+Clubs,3,30,Buy
+Hearts,0,26,Buy
+Hearts,20,26,Buy
+Hearts,2,26,Sell
+Clubs,10,29,Sell
+Diamonds,19,33,Sell
+Clubs,4,40,Sell
